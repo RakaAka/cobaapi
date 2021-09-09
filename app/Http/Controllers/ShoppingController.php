@@ -14,7 +14,7 @@ class ShoppingController extends Controller
 
     public function create(){
 
-        return response()->json('Sukses');
+        return response()->json('Suksess');
     }
 
     public function dptkanid(){
